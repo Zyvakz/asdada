@@ -3551,7 +3551,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   --button-shadow: none;
 }
 .lookFilled-1H2Jvj.colorRed-2VFhM4 {
-  --button-background: hsl(var(--alert-hsl));
+  --button-background: rbg(243, 136, 236, 1);
   --button-text-color: var(--alert-text-color);
 }
 .lookFilled-1H2Jvj.colorWhite-Eshn2o {
