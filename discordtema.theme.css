@@ -100,9 +100,9 @@
   --menu-item-select-accent-opacity: 0.3;
   --menu-item-text-color: #aaa;
   --card-color-outlined: transparent;
-  --card-color-filled: hsl(225,6%,13%);
-  --card-color-hover: hsl(225,6%,16%);
-  --card-color-active: hsl(225,6%,25%);
+  --card-color-filled: hsl(280°, 77%, 74%);
+  --card-color-hover: hsl(280°, 77%, 74%);
+  --card-color-active: hsl(280°, 77%, 74%);
   --card-color-alt: hsl(225,6%,18%);
   --card-color-alt-hover: hsl(225,6%,21%);
   --card-border-color: hsl(301, 61, 67);
